@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+*.pyo
+
+my_venv1/
+dlenv/
+.env
+
+userfiles.csv
+Users.csv
+
+# knowledge base
+knowledge_base/
+
